@@ -3,7 +3,7 @@
 
 🎓 **Master’s Thesis – Hochschule Bremen**  
 👤 **Author:** Md Shahriar Dipto  
-📅 **Submission:** Winter Semester 2025–26 (5th Dec 2025)
+📅 **Submission:** Winter Semester 2025–26 (5th Jan 2026)
 
 ---
 
