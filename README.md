@@ -2,8 +2,8 @@
 ## Aquasonic III Sounding Rocket
 
 🎓 **Master’s Thesis – Hochschule Bremen**  
-👤 **Author:** Md Shahriar Dipto (Matr.-Nr. 5227587)  
-📅 **Submission:** Winter Semester 2025–26 (15 Dec 2025)
+👤 **Author:** Md Shahriar Dipto  
+📅 **Submission:** Winter Semester 2025–26 (5th Dec 2025)
 
 ---
 
